@@ -1,0 +1,3 @@
+what is stage in git.
+
+this will be added and commit.so this line will be in repository.
