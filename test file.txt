@@ -2,3 +2,5 @@
 init :initialize a folder to a repository.
 add :add files to repository.
 commit -m:commit files which has been added to repository.
+status: show status of modified files.
+diff:show difference between lasted files and repository.
