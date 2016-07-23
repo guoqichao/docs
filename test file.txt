@@ -4,7 +4,7 @@ add :add files to repository.
 commit -m:commit files which has been added to repository.
 status: show status of modified files.
 diff:show difference between lasted files and repository.
-reset --hard HEAD^(HEAD^^ HEAD~10):rollback to old version
+reset --hard HEAD^(HEAD^^ HEAD~10) files:rollback to old version
 reset --hard 6aa4b(versionid):set head to any version
 reflog:show all version ids to be used by reset for set head to any version.
 
